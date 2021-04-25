@@ -1,0 +1,3 @@
+The second approach in the above example takes care of all the exceptions
+            but using the with statement makes the code compact and much more readable. 
+            Thus, with statement help shown above and with Locks, sockets, subprocesses and telnets etc
